@@ -8,7 +8,7 @@
     <a href="https://github.com/Jeremy-Bosire">
       <img src="https://img.shields.io/badge/GitHub-My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://www.tiktok.com/bn.jeremy"> <img src="https://img.shields.io/badge/TikTok-Follow_Me-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <a href="https://www.tiktok.com/@bn.jeremy"> <img src="https://img.shields.io/badge/TikTok-Follow_Me-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
     </a>
     <a href="https://www.instagram.com/bn.jeremy"> <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
