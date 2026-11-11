@@ -1,92 +1,57 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jeremy%20Bosire&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Tech%20Creator&descAlignY=55&descAlign=50" alt="Jeremy Bosire Header" />
+<p align="center">
+  <img src="./banner.svg" alt="Jeremy Bosire, Fullstack Developer and DevOps Engineer, Nairobi" width="100%">
+</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/jeremy-bosire-3004b51a7/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/Jeremy-Bosire">
-      <img src="https://img.shields.io/badge/GitHub-My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://www.tiktok.com/@bn.jeremy"> <img src="https://img.shields.io/badge/TikTok-Follow_Me-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-    </a>
-    <a href="https://www.instagram.com/bn.jeremy"> <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://twitter.com/BosireNyaachi">
-      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-  </p>
+I'm a fullstack developer and DevOps engineer in Nairobi. I build web apps from the React frontend through the API to the database, and I care about getting them deployed and keeping them running. I graduated in Computer Science from Egerton University in 2026.
 
-  <img src="https://komarev.com/ghpvc/?username=Jeremy-Bosire&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+**[Open my portfolio: Port of Bosire](https://jeremy-bosire.github.io/port-of-bosire/)**
+It's a small container port. You run the crane, lift a container onto the dock, and the contents (my experience, projects, skills) open up. If you'd rather just read, there's a "Skip game" button that gives you the plain version.
 
----
+## Right now
 
-### 🚀 The Vision
+I'm a Software Developer Intern at **Zamupay** (since October 2026), building **Koba**, a remittance portal with secure payments and real-time transaction tracking. The backend is .NET (C#) and the frontend is React. The code is private, but I'm happy to talk about how it's put together.
 
-> *"I dream of becoming Africa's biggest tech creator, bridging the gap between human creativity and Agentic AI."*
+## Things I've built
 
-I am an **Agentic AI Engineer** and **Open Source Contributor** based in Kenya. As an alumnus of **ALX Software Engineering** and **Moringa School**, I have evolved beyond traditional coding into **Agentic Workflows** and **Master Prompt Engineering**.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **MindHero** | A multi-tenant clinical mental health platform. Facility-scoped data, three roles (admin, therapist, client), invite-only sign-up, an AI counselor built on the Claude API, and a therapist dashboard with mood and sleep trends. | Python, Flask, React, TypeScript, SQLAlchemy, JWT |
+| **PovertyLine** | A mobile-first platform for distributing resources, with separate access for users, providers and admins. | Python, Flask, React, Redux Toolkit, PostgreSQL, Docker |
+| **Simple Shell & printf** | A UNIX shell and a custom `printf`, written in C from scratch. [printf repo](https://github.com/Jeremy-Bosire/printf) | C, Linux |
+| **Tower Defense** | A 2D strategy game with enemy pathfinding and waves that get harder as you win. | Python, Pygame |
+| **TAKA** | An assignment tracker for students, with deadlines and progress. | React |
 
-I specialize in the newest frontier of development: using **Google Antigravity** and **Cursor** to orchestrate AI agents that build secure, scalable software.
+<!-- Add repo links for MindHero, PovertyLine, Tower Defense and TAKA once they are public. -->
 
-* 🏆 **Winner:** 2nd Runners-up, NRF Cybersecurity Hackathon (Ksh 250k Prize).
-* 📦 **Open Source:** Contributor to `numpy` and `psf/black`.
-* 🤖 **Early Adopter:** Expert in **Google Antigravity** & **Gemini 3** workflows.
+## What I work with
 
----
+| Frontend | Backend | Data | DevOps and cloud |
+| --- | --- | --- | --- |
+| React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS | Python (Flask, FastAPI), C# and .NET, REST, JWT and RBAC | PostgreSQL, SQL | Docker, Kubernetes, Terraform, GitHub Actions, AWS (EC2, S3, Lambda), Linux |
 
-### 🛠️ The Agentic Stack
+I test with Jest and Pytest, and I use AI tools (Claude, Gemini, Cursor, Copilot) in my daily workflow.
 
-<div align="center">
+## Open source
 
-| **AI Agents & IDEs** | **DevOps & Orchestration** | **Core Engineering** |
-|:---:|:---:|:---:|
-| **Google Antigravity**<br>**Cursor AI**<br>**Gemini 3 / Vertex AI** | **Jenkins**<br>**Docker**<br>**Kubernetes** | **Python**<br>**React.js**<br>**Linux / Bash** |
+I've had changes merged into **[NumPy](https://github.com/numpy/numpy)** (performance work) and **[psf/black](https://github.com/psf/black)** (code quality).
 
-</div>
+## Hackathons
 
----
+- **Global semifinalist**, A2SV AI for Impact 2024. We were the only team from Kenya among 690+ entries.
+- **1st runners-up**, Power Learn Project inter-university hackathon 2024. We built a translation-enabled messaging prototype, Bonga Plus, in four hours.
+- **2nd runners-up**, NRF CyberSecurity Hackathon 2024. I led a team of five against 30+ teams.
+- **Best Technical Presenter**, Build with AI Hackathon, GDG Nairobi 2024.
 
-### 📦 Open Source Contributions
+## Training
 
-I believe in maintaining the tools the world relies on. I have contributed code to:
+- DevOps Engineering, Moringa School (completed August 2025)
+- Software Engineering, Moringa School and ALX Africa
+- Claude in Action, Anthropic Academy (2026)
 
-| Repository | Role | Impact |
-| :--- | :--- | :--- |
-| **[numpy/numpy](https://github.com/numpy/numpy)** | **Contributor** | Optimized array manipulation functions used by data scientists globally. |
-| **[psf/black](https://github.com/psf/black)** | **Contributor** | Contributed to the uncompromising Python code formatter, ensuring cleaner codebases worldwide. |
+## Elsewhere
 
----
+I also make AI content, and I was a delegate at the Africa Forward Summit in Kenya in 2026.
 
-### 💡 Featured Projects & Workflows
+[Portfolio](https://jeremy-bosire.github.io/port-of-bosire/) · [LinkedIn](https://www.linkedin.com/in/jeremy-bosire-3004b51a7/) · [Email](mailto:bnjeremy.ke@gmail.com) · [TikTok](https://www.tiktok.com/@bn.jeremy) · [Instagram](https://www.instagram.com/bn.jeremy) · [X](https://twitter.com/BosireNyaachi)
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **AfriCare / MaternaLight** | **A2SV Semi-Finalist.** An AI-powered mental health support platform for prenatal and postnatal care. | `React` `Gemini API` `Node.js` |
-| **Sheria-Sema** | *(In Progress)* An AI-driven civic engagement platform using **RAG** architecture to demystify Kenyan Law. | `Google Antigravity` `RAG` `Vector DB` |
-| **Agentic DevOps Pipeline** | Built a CI/CD workflow using **Jenkins** and **Docker** where AI agents handle automated testing and deployment. | `Jenkins` `Docker` `Agentic AI` |
-
----
-
-### ⚡ What I'm Up To Now
-- 🔭 **Mastering:** **Google Antigravity**—pushing the limits of what autonomous coding agents can do.
-- 🌱 **Building:** Custom **Agentic Workflows** to automate software delivery pipelines.
-- 📱 **Creating:** Documenting my journey to becoming **Africa's Biggest Tech Creator** on TikTok & IG.
-- 👯 **Looking for:** Roles in **AI Engineering**, **DevRel**, or **Agentic Systems** where I can innovate.
-
----
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeremy-Bosire&theme=tokyonight&hide_border=true" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Bosire&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <p><i>"The future belongs to those who can orchestrate intelligence."</i></p>
-  <p>Let's build something incredible together.</p>
-</div>
+I'm open to fullstack, backend and DevOps roles, including remote teams.
